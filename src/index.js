@@ -15,4 +15,4 @@ ReactDOM.render(<App2 />, document.getElementById("root"));
 //ReactDOM.render(<Image />, document.getElementById("root"));
 //ReactDOM.render(<App3 />, document.getElementById("root"));
 //ReactDOM.render(<Expression />, document.getElementById("root"));
-//ReactDOM.render(<Employee />, document.getElementById("root"));
+ReactDOM.render(<Employee />, document.getElementById("root"));
