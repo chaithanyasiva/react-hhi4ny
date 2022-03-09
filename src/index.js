@@ -7,12 +7,14 @@ import Image from './Image';
 import App3 from './App3';
 import Expression from './Expression';
 import Employee from './Employee';
+import Style from './Style';
 
 
 //ReactDOM.render(<App />, document.getElementById("root"));
 //ReactDOM.render(<App1 />, document.getElementById("root"));
-ReactDOM.render(<App2 />, document.getElementById("root"));
+//ReactDOM.render(<App2 />, document.getElementById("root"));
 //ReactDOM.render(<Image />, document.getElementById("root"));
 //ReactDOM.render(<App3 />, document.getElementById("root"));
 //ReactDOM.render(<Expression />, document.getElementById("root"));
 ReactDOM.render(<Employee />, document.getElementById("root"));
+//ReactDOM.render(<Style />, document.getElementById("root"));
